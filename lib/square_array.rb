@@ -1,9 +1,5 @@
 def square_array(array)
-  array.length.times |elements| {
-    ele
-    
-  
-  
-  new_array << squared
+  array.length.times { |index|
+  new_array.push (puts (array[index])**)
   }
 end
