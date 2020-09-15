@@ -8,4 +8,4 @@ end
 new_array
 end
 
-puts square_array([2,9])
+puts square_array([10,9])
